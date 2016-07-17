@@ -9,8 +9,9 @@ glob.readdir('reports/**/*.xml', function (err, files) {
     merger.mergeFiles("/Users/shjain/junit-email-report/results/result.xml", files, [], function (res, err) {
         fs.readFile('/Users/shjain/junit-email-report/results/result.xml', 'utf8', function (err, data) {
             parser.parse(data).then(function (results) {
-                var output = template(results);
-                console.log(output);
+                fs.writeFile('emailableReport.html', template(results), function (err) {
+                    if (err) return console.log(err);
+                });
             });
         });
     });
