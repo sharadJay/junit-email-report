@@ -1,0 +1,25 @@
+{
+  "name": "junit-email-report",
+  "version": "0.0.1",
+  "description": "Emailable HTML report generator from junit xml files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "report",
+    "junit",
+    "emailable-report"
+  ],
+  "author": "shjain",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.0.5",
+    "glob-fs": "^0.1.6",
+    "junit-report-merger ": "0.0.4",
+    "junit-xml-parser": "0.0.3"
+  },
+  "devDependencies": {
+    "swig": "^1.4.2"
+  }
+}

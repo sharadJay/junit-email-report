@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="MetaOfferWithoutPriceChange"
+    errors="0" failures="0" hostname="" id="" package="metaSearch" skipped="0"
+    tests="2" time="0.000" timestamp="Fri, 15 Jul 2016 22:18:33 GMT">
+  
+    <testcase name="Search For Car From Airport To Airport" time="134.3" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Find the product info of the first available car and Search cars with meta offer and with no price using it" time="136.6" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

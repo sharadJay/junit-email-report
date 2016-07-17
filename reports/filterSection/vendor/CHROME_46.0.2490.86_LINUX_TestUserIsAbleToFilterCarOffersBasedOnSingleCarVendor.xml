@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="5">
+
+  <testsuite name="TestUserIsAbleToFilterCarOffersBasedOnSingleCarVendor"
+    errors="0" failures="1" hostname="" id="" package="vendor" skipped="2"
+    tests="5" time="0.000" timestamp="Fri, 15 Jul 2016 22:14:13 GMT">
+  
+    <testcase name="Search For Car" time="17.59" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter Section Is Visible For Vendor" time="6.682" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Select A Single Vendor Filter" time="1.062" assertions="1">  <failure message="Timed out while waiting for element &lt;label[data-filter-name=&#39;ET&#39;]&gt; to be present for 90000 milliseconds.">    at Object.waitForElementVisible (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/lib/page-object/command-wrapper.js:103:25)
+    at Object.filterActions.selectFilterForCarRentalCompany (/data/jenkins/workspace/car-shopping-web-ui-test/pageobjects/carSearchList/filterComponent.js:55:14)
+    at Object.module.exports.Select A Single Vendor Filter (/data/jenkins/workspace/car-shopping-web-ui-test/tests/filterSection/vendor/TestUserIsAbleToFilterCarOffersBasedOnSingleCarVendor.js:33:34)
+    at Module.call (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/lib/runner/module.js:63:34)
+    at /data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/lib/runner/testcase.js:97:29
+    at _fulfilled (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/node_modules/q/q.js:834:54)
+    at self.promiseDispatch.done (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/node_modules/q/q.js:863:30)
+    at Promise.promise.promiseDispatch (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/node_modules/q/q.js:796:13)
+    at /data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/node_modules/q/q.js:556:49
+    at runSingle (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/node_modules/q/q.js:137:13)</failure>
+
+    
+    </testcase>
+  
+  
+    
+    <testcase
+      name="Uncheck car type selected in previous step">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Repeat Select A Single Vendor Filter">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

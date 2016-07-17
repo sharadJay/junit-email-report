@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="a suite" errors="0" tests="1" failures="0" time="0.022" timestamp="2016-07-16T16:30:46">
+  <testcase classname="a suite" name="should match JSON with nested structure and single path" time="0.021"></testcase>
+</testsuite>
+</testsuites>

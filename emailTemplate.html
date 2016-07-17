@@ -1,0 +1,12 @@
+<h1>Test Execution Summary</h1>
+<h2>Summary</h2>
+Number Of Tests{{suite.summary.tests}}
+Number Of Failure{{suite.summary.failures}}
+Number Of Skipped{{suite.summary.errors}}
+<ul>
+    {% for test in suite.tests %}
+    <li>
+        {{test.name}}
+    </li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="TestSearchResultsAreDisplayedWhenChangingDropOffAndPickUpLocationFromInlineWizard"
+    errors="0" failures="0" hostname="" id="" package="inlineWizard" skipped="3"
+    tests="3" time="0.000" timestamp="Fri, 15 Jul 2016 22:12:28 GMT">
+  
+  
+    
+    <testcase
+      name="Search For Car">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Change Drop Off Location To Bellevue">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Change Pick Up Location To Seattle">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

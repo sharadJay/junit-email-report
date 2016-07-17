@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="11">
+
+  <testsuite name="DisambigPageDisplayedForBothPickAndDropOffWhenBothLocationsAreNotResolved"
+    errors="0" failures="0" hostname="" id="" package="disambig" skipped="11"
+    tests="11" time="0.000" timestamp="Fri, 15 Jul 2016 22:08:26 GMT">
+  
+  
+    
+    <testcase
+      name="Search For Car With Pickup and Drop Off Text Both Gibberish">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Verify Details on disambig page">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Click On Change Search Link">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="If result are more than 10, click on show more link">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="If result are more than 10, click on show less link">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Click On First Suggestion">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Click On Change Search Link On Drop Off Disambig">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Verify details displayed on disambig for drop off">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="If result are more than 10, click on show more link on drop off disambig">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="If results were more than 10, click on show less link on drop off disambig">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Click on back button">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

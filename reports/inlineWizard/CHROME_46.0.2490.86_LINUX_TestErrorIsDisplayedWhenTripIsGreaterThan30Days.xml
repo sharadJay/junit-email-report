@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestErrorIsDisplayedWhenTripIsGreaterThan30Days"
+    errors="0" failures="0" hostname="" id="" package="inlineWizard" skipped="0"
+    tests="1" time="0.000" timestamp="Fri, 15 Jul 2016 22:15:12 GMT">
+  
+    <testcase name="Enter Booking Period greater than 30 days" time="137.4" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

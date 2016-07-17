@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="searchPlaybackOnSearchListAndDropOffPage"
+    errors="0" failures="0" hostname="" id="" package="searchPlayback" skipped="0"
+    tests="2" time="0.000" timestamp="Fri, 15 Jul 2016 22:18:40 GMT">
+  
+    <testcase name="Search For Car From Airport To Off Airport" time="130.6" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on first available car" time="4.455" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

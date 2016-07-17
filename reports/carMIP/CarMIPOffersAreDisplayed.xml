@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+    <testsuite name="CarMIPOffersAreDisplayed"
+               errors="0" failures="0" hostname="" id="" package="carMIP" skipped="2"
+               tests="2" time="0.000" timestamp="Fri, 15 Jul 2016 22:08:26 GMT">
+
+
+        <testcase
+                name="Navigate to sign in page and login">
+            <skipped/>
+        </testcase>
+
+        <testcase
+                name="Search For Cars - Airport Round Trip and verify that CarMIP offers are available">
+            <skipped/>
+        </testcase>
+
+
+    </testsuite>
+</testsuites>

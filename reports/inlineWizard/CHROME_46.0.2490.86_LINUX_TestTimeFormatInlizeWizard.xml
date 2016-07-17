@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestTimeFormatInlizeWizard"
+    errors="0" failures="0" hostname="" id="" package="inlineWizard" skipped="0"
+    tests="1" time="0.000" timestamp="Fri, 15 Jul 2016 22:13:20 GMT">
+  
+    <testcase name="Enter Booking Period less than 1.5 hours" time="13.31" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

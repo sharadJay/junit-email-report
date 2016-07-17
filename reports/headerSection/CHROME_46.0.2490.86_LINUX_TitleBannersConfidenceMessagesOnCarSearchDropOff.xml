@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="TitleBannersConfidenceMessagesOnCarSearchDropOff"
+    errors="0" failures="0" hostname="" id="" package="headerSection" skipped="0"
+    tests="3" time="0.000" timestamp="Fri, 15 Jul 2016 22:12:25 GMT">
+  
+    <testcase name="Search For Car From One Off Airport To Another Off Airport" time="20.81" assertions="19">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Select A Single Car Rental Company Filter" time="15.05" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on Book button for first offer card and Verify the drop off page is displayed" time="7.971" assertions="9">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

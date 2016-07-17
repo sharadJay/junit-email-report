@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="5">
+
+  <testsuite name="TestUserIsAbleToFilterCarOffersBasedOnSingleCarType"
+    errors="0" failures="0" hostname="" id="" package="carType" skipped="0"
+    tests="5" time="0.000" timestamp="Fri, 15 Jul 2016 22:11:20 GMT">
+  
+    <testcase name="Search For Car" time="22.09" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter Section Is Visible For Type" time="6.578" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Select A Single Car Class Filter" time="14.40" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Uncheck car type selected in previous step" time="6.771" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Repeat Select A Single Car Class Filter" time="10.62" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

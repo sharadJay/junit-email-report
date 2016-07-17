@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="4">
+
+  <testsuite name="UserIsAbleToIterateListUsingNextAndPreviousButton"
+    errors="0" failures="1" hostname="" id="" package="pagination" skipped="1"
+    tests="4" time="0.000" timestamp="Fri, 15 Jul 2016 22:20:14 GMT">
+  
+    <testcase name="Search For Car" time="66.37" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Verify pagination elements are displayed on first page" time="0.5650" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Verify Next Button Functionality" time="0.2280" assertions="1">  <failure message="Expected element &lt;#pagination .backToTop&gt; to be visible - element was not found">    at Object.element (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/lib/page-object/command-wrapper.js:103:25)
+    at /data/jenkins/workspace/car-shopping-web-ui-test/tests/pagination/UserIsAbleToIterateListUsingNextAndPreviousButton.js:42:35
+    at Object.&lt;anonymous&gt; (/data/jenkins/workspace/car-shopping-web-ui-test/pageobjects/carSearchList/searchListPage.js:126:33)
+    at null._onTimeout (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/lib/api/client-commands/pause.js:37:10)
+    at Timer.listOnTimeout (timers.js:92:15)</failure>
+
+    
+    </testcase>
+  
+  
+    
+    <testcase
+      name="Verify Previous Button Functionality">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

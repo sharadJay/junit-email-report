@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="UserIsAbleToLoginFromSearchPage"
+    errors="0" failures="0" hostname="" id="" package="globalHeaders" skipped="0"
+    tests="3" time="0.000" timestamp="Fri, 15 Jul 2016 22:12:14 GMT">
+  
+    <testcase name="Search For Car From Airport To Airport" time="23.88" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Login from search page" time="52.90" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Logout From Search Page" time="12.11" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

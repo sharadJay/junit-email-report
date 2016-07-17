@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="1"
+            tests="3">
+
+  <testsuite name="DropOffPageOfferListUniqueAndOrdered"
+    errors="1" failures="1" hostname="" id="" package="dropOffPage" skipped="0"
+    tests="3" time="0.000" timestamp="Fri, 15 Jul 2016 22:15:43 GMT">
+  
+    <testcase name="Search For Car From Airport To Off Airport" time="130.7" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+      <system-err>
+         ERROR: Unable to locate element: &quot;label[data-filter-name=&#39;ET&#39;]&quot; using: css selector
+      </system-err>
+  
+    <testcase name="Select A Single Car Rental Company Filter" time="0.8640" assertions="0">
+    </testcase>
+      <system-err>
+         ERROR: Unable to locate element: &quot;label[data-filter-name=&#39;ET&#39;]&quot; using: css selector
+      </system-err>
+  
+    <testcase name="Click on Book button for first offer card and Verify that the drop off offer cards are unique and ordered with distance less than 25 miles" time="1.527" assertions="1">  <failure message="Timed out while waiting for element &lt;h1.section-header-main&gt;div&gt; to be present for 90000 milliseconds.">    at Object.waitForElementVisible (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/lib/page-object/command-wrapper.js:103:25)</failure>
+
+    
+    </testcase>
+      <system-err>
+         ERROR: Unable to locate element: &quot;label[data-filter-name=&#39;ET&#39;]&quot; using: css selector
+      </system-err>
+  
+  
+  </testsuite>
+</testsuites>

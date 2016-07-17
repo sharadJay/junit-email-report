@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="LiabilityInsurance"
+    errors="0" failures="0" hostname="" id="" package="headerSection" skipped="0"
+    tests="3" time="0.000" timestamp="Fri, 15 Jul 2016 22:16:15 GMT">
+  
+    <testcase name="Search cars with MX destination and verify liability-insurance-included message on CSR" time="269.7" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on first available car" time="5.512" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Verify liability-insurance-included message on CKO" time="1.295" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

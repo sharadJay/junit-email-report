@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="TestCarSearchForOffAirportIsRecordedInScratchpad"
+    errors="0" failures="0" hostname="" id="" package="scratchpad" skipped="4"
+    tests="4" time="0.000" timestamp="Fri, 15 Jul 2016 22:16:16 GMT">
+  
+  
+    
+    <testcase
+      name="Search For Car">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Reload Page">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Click On My Scratchpad">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Click On View Scratchpad">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="testRenderPageWithPageIdTitle"
+    errors="0" failures="0" hostname="" id="" package="infosite" skipped="3"
+    tests="3" time="0.000" timestamp="Fri, 15 Jul 2016 22:11:20 GMT">
+  
+  
+    
+    <testcase
+      name="Turn On Abacus 10387">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Search for a car airport roundtrip">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name=" Click on reserve button and verify all the details on the infosite page">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="searchPlaybackRoundTrip"
+    errors="0" failures="0" hostname="" id="" package="searchPlayback" skipped="0"
+    tests="1" time="0.000" timestamp="Fri, 15 Jul 2016 22:18:41 GMT">
+  
+    <testcase name="Search For Car For Off Airport Round Trip" time="131.3" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

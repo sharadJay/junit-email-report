@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="TestErrorDisplayedOnBookingTimeLessThan2Hours"
+    errors="0" failures="1" hostname="" id="" package="inlineWizard" skipped="1"
+    tests="2" time="0.000" timestamp="Fri, 15 Jul 2016 22:20:28 GMT">
+  
+    <testcase name="Enter Booking Period less than 1.5 hours" time="96.84" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Expected element &lt;#wizard-errors&gt; text to contain: &quot;The drop-off date and time must occur at least {{minPickupDropoffDuration}} hours after the pick-up date and time.&quot;">    at Object.element (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/lib/page-object/command-wrapper.js:103:25)</failure>
+
+    
+    </testcase>
+  
+  
+    
+    <testcase
+      name="Enter Current time as pickUp time and  Booking Period less than 2 hours">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

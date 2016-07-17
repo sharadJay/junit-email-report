@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="SearchTimeUpdatedToNextAvailableTimeWhenCurrentTimeIsGiven"
+    errors="0" failures="0" hostname="" id="" package="searchPlayback" skipped="2"
+    tests="2" time="0.000" timestamp="Fri, 15 Jul 2016 22:16:20 GMT">
+  
+  
+    
+    <testcase
+      name="Search for Car with Pick Up as Current Date and Time">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Search for Car with Pick Up as Current Date and Time and Pick Up Location with different timezone">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

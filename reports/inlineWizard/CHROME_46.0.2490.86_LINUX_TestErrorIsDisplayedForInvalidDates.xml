@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="4">
+
+  <testsuite name="TestErrorIsDisplayedForInvalidDates"
+    errors="0" failures="1" hostname="" id="" package="inlineWizard" skipped="0"
+    tests="4" time="0.000" timestamp="Fri, 15 Jul 2016 22:28:10 GMT">
+  
+    <testcase name="Search For Car With Invalid Pickup Date Format" time="268.0" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Search For Car With Past Pickup Date" time="9.739" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Enter Past Drop Off Date" time="9.383" assertions="9">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Search For Car With Drop Off Date Before Pick Up Date" time="132.7" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Expected element &lt;#wizard-errors&gt; text to contain: &quot;The drop-off date and time must occur at least {{minPickupDropoffDuration}} hours after the pick-up date and time.&quot;">    at Object.element (/data/jenkins/workspace/car-shopping-web-ui-test/node_modules/nightwatch/lib/page-object/command-wrapper.js:103:25)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

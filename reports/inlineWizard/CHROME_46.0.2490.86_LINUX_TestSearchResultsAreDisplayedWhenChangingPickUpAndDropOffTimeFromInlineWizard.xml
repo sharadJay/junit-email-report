@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="TestSearchResultsAreDisplayedWhenChangingPickUpAndDropOffTimeFromInlineWizard"
+    errors="0" failures="0" hostname="" id="" package="inlineWizard" skipped="0"
+    tests="3" time="0.000" timestamp="Fri, 15 Jul 2016 22:13:03 GMT">
+  
+    <testcase name="Search For Car" time="10.23" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Change Drop Off Time In Inline Wizard To 11:30" time="8.262" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Change Pick Up Time In Inline Wizard To 11:30" time="8.686" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

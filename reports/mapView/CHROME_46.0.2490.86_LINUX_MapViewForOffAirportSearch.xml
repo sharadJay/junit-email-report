@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="MapViewForOffAirportSearch"
+    errors="0" failures="0" hostname="" id="" package="mapView" skipped="0"
+    tests="3" time="0.000" timestamp="Fri, 15 Jul 2016 22:17:17 GMT">
+  
+    <testcase name="Search For Car From Off Airport location" time="19.80" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on View Map link and Verify Map View is displayed" time="1.485" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click on the Close Map button and Verify that the Car Search page is displayed" time="1.982" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

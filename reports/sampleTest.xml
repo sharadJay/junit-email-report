@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="sampleTest"
+    errors="0" failures="0" hostname="" id="" package="sampleTest" skipped="3"
+    tests="3" time="0.000" timestamp="Fri, 15 Jul 2016 22:16:06 GMT">
+  
+  
+    
+    <testcase
+      name="Set Abacus To 7725">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Navigate To Search List Page">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Search For A Car Offer And Verify results are displayed">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

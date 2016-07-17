@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="5">
+
+  <testsuite name="TestUserIsAbleToFilterCarOffersBasedOnDailyPrices"
+    errors="0" failures="0" hostname="" id="" package="dailyPrices" skipped="0"
+    tests="5" time="0.000" timestamp="Fri, 15 Jul 2016 22:12:59 GMT">
+  
+    <testcase name="Search For Car" time="130.7" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter Section Is Visible For Type" time="1.557" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Select Any one Daily Price Filter and Verify the page header is updated with the number of cars and the price per day" time="10.27" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Uncheck first filter selected in previous step" time="2.612" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Repeat Select Any one Daily Price Filter" time="10.71" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

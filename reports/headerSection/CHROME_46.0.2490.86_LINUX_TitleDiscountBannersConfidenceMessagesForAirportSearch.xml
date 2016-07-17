@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="TitleDiscountBannersConfidenceMessagesForAirportSearch"
+    errors="0" failures="0" hostname="" id="" package="headerSection" skipped="0"
+    tests="2" time="0.000" timestamp="Fri, 15 Jul 2016 22:12:02 GMT">
+  
+    <testcase name="Search For Car From One Airport To Another Airport" time="12.24" assertions="20">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Select A Single Car Type Filter" time="9.471" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
