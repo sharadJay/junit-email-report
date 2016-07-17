@@ -1,6 +1,6 @@
 var merger = require('junit-report-merger');
 var glob = require('glob-fs')({gitignore: true});
-var parser = require('junit-xml-parser').parser;
+var parser = require('./lib/junit-xml-parser').parser;
 fs = require('fs');
 var swig = require('swig');
 var template = swig.compileFile('emailTemplate.html');
