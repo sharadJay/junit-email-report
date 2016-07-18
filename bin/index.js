@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var merger = require('junit-report-merger');
-var glob = require('glob-fs')({gitignore: true});
+var glob = require('glob');
 var parser = require('./../lib/junit-xml-parser').parser;
 fs = require('fs');
 var swig = require('swig');
@@ -13,7 +13,7 @@ program
     .option('-i, --input [type]', 'Input results directory [path]', process.cwd() + "/reports")
     .parse(process.argv);
 console.log(program.input, program.output);
-glob.readdir(program.input+"/**/*.xml", function (err, files) {
+glob(program.input + "/**/*.xml", function (err, files) {
     merger.mergeFiles('result.xml', files, [], function (res, err) {
         fs.readFile('result.xml', 'utf8', function (err, data) {
             parser.parse(data).then(function (results) {
