@@ -5,7 +5,7 @@ var glob = require('glob');
 var parser = require('./../lib/junit-xml-parser').parser;
 fs = require('fs');
 var swig = require('swig');
-var template = swig.compileFile('emailTemplate.html');
+var template = swig.compileFile(__dirname+'/../emailTemplate.html');
 var program = require('commander');
 program
     .version('0.0.1')

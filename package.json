@@ -14,7 +14,11 @@
   "bin": {
     "junit-email-report": "bin/index.js"
   },
-  "author": "shjain",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharadJay/junit-email-report"
+  },
+  "author": "Sharad Jain",
   "license": "ISC",
   "dependencies": {
     "async": "~0.2.7",
