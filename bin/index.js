@@ -20,9 +20,9 @@ glob(program.input + "/**/*.xml", function (err, files) {
                 fs.writeFile(program.output, template(results), function (err) {
                     if (err) {
                         return console.log(err);
-                        process.exit(0);
-                    } else {
                         process.exit(1);
+                    } else {
+                        process.exit(0);
                     }
                 });
             });
